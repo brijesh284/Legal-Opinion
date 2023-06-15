@@ -44,7 +44,7 @@ a {
   box-shadow: none;
 }
 .navbar-toggler img {
-  width: 30px;
+  width: 25px;
 }
 /* END-Header */
 /* Banner-section */
@@ -75,7 +75,7 @@ a {
   font-weight: 600;
   font-size: 24px;
   line-height: 30px;
-  letter-spacing: 0.01em;
+  letter-spacing: 0.14px;
   color: #e9742b;
   margin-left: 18px;
 }
@@ -83,7 +83,7 @@ a {
   font-size: 14px;
   line-height: 18px;
   font-family: SourceSansPro-Bold;
-  letter-spacing: 0.01em;
+  letter-spacing: 0.14px;
   color: #ffffff;
   background: #e9742b;
   box-shadow: 4px -4px 9px rgba(103, 85, 73, 0.25),
@@ -101,16 +101,11 @@ a {
   list-style: none;
   padding: 0;
   margin: 0;
-}
-.banner-section .banner-dec-wrap ul li {
-  margin-left: 17px;
-}
-.banner-section .banner-dec-wrap ul li:first-child {
-  margin-left: 0px;
+  gap: 17px;
 }
 .banner-section .banner-dec-wrap ul li span {
   font-size: 14px;
-  letter-spacing: 0.01em;
+  letter-spacing: 0.14px;
   color: #2c3e50;
   margin-left: 10px;
   font-family: SourceSansPro-Bold;
@@ -151,7 +146,7 @@ a {
 .about-section .about-dec h2 {
   font-size: 32px;
   line-height: 40px;
-  letter-spacing: 0.01em;
+  letter-spacing: 0.14px;
   color: #2c3e50;
   font-family: SourceSansPro-Semibold;
   margin-bottom: 32px;
@@ -219,7 +214,7 @@ a {
 .about-section .about-table ul li {
   font-size: 14px;
   line-height: 173.5%;
-  letter-spacing: 0.01em;
+  letter-spacing: 0.14px;
   color: #ffffff;
   font-family: SourceSansPro-Semibold;
   margin-bottom: 15px;
@@ -249,7 +244,7 @@ a {
   justify-content: center;
   font-size: 14px;
   line-height: 18px;
-  letter-spacing: 0.01em;
+  letter-spacing: 0.14px;
   color: #e9742b;
   font-family: SourceSansPro-bold;
   position: relative;
@@ -278,7 +273,7 @@ a {
 .working-section .working-title h2 {
   font-size: 32px;
   line-height: 40px;
-  letter-spacing: 0.01em;
+  letter-spacing: 0.14px;
   color: #2c3e50;
   font-family: SourceSansPro-Bold;
   margin-bottom: 20px;
@@ -286,7 +281,7 @@ a {
 .working-section .working-title p {
   font-size: 16px;
   line-height: 176.5%;
-  letter-spacing: 0.01em;
+  letter-spacing: 0.14px;
   color: rgba(44, 62, 80, 0.9);
   width: 35%;
   margin: auto;
@@ -301,7 +296,7 @@ a {
   font-size: 16px;
   line-height: 20px;
   text-align: center;
-  letter-spacing: 0.01em;
+  letter-spacing: 0.14px;
   color: #2c3e50;
   font-family: SourceSansPro-Bold;
   width: 65%;
@@ -427,7 +422,7 @@ a {
 .advantages-section .advantages-inner .advantages-wrap h3 {
   font-size: 18px;
   line-height: 27px;
-  letter-spacing: 0.01em;
+  letter-spacing: 0.14px;
   font-family: SourceSansPro-Semibold;
 }
 .advantages-section .advantages-inner .advantages-wrap p {
@@ -469,7 +464,7 @@ a {
 .faqs-section .faqs-head h2 {
   font-size: 32px;
   line-height: 40px;
-  letter-spacing: 0.01em;
+  letter-spacing: 0.14px;
   color: #2c3e50;
   font-family: SourceSansPro-Bold;
   margin-bottom: 30px;
@@ -477,7 +472,7 @@ a {
 .faqs-section .faqs-head p {
   font-size: 24px;
   line-height: 30px;
-  letter-spacing: 0.01em;
+  letter-spacing: 0.14px;
   color: rgba(44, 62, 80, 0.6);
   width: 35%;
   margin: auto;
@@ -489,7 +484,7 @@ a {
 .faqs-body .accordion .accordion-item h2 {
   font-size: 16px;
   line-height: 20px;
-  letter-spacing: 0.01em;
+  letter-spacing: 0.14px;
   color: #2c3e50;
   font-family: SourceSansPro-Semibold;
 }
@@ -506,7 +501,7 @@ a {
   font-size: 14px;
   line-height: 176.5%;
   text-align: justify;
-  letter-spacing: 0.01em;
+  letter-spacing: 0.14px;
   color: rgba(44, 62, 80, 0.7);
   padding: 0px;
   padding-bottom: 20px;
@@ -543,7 +538,7 @@ a {
   font-size: 16px;
   line-height: 20px;
   text-align: justify;
-  letter-spacing: 0.01em;
+  letter-spacing: 0.14px;
   text-decoration-line: underline;
   color: #e9742b;
   font-family: SourceSansPro-Bold;
@@ -564,14 +559,14 @@ a {
 .testimonials-section .testimonials-head p {
   font-size: 24px;
   line-height: 30px;
-  letter-spacing: 0.01em;
+  letter-spacing: 0.14px;
   color: rgba(255, 255, 255, 0.6);
   margin-bottom: 25px;
 }
 .testimonials-section .testimonials-head h2 {
   font-size: 32px;
   line-height: 40px;
-  letter-spacing: 0.01em;
+  letter-spacing: 0.14px;
   color: #ffffff;
   font-family: SourceSansPro-Bold;
 }
@@ -598,7 +593,7 @@ a {
 .testimonials-section .testimonials-body .testimonials-wrap p {
   font-size: 14px;
   line-height: 176.5%;
-  letter-spacing: 0.01em;
+  letter-spacing: 0.14px;
   color: rgba(44, 62, 80, 0.6);
   font-family: SourceSansPro-Semibold;
   margin-bottom: 8px;
@@ -609,7 +604,7 @@ a {
 .testimonials-section .testimonials-body .testimonials-wrap h3 {
   font-size: 24px;
   line-height: 30px;
-  letter-spacing: 0.01em;
+  letter-spacing: 0.14px;
   color: #e9742b;
   font-family: SourceSansPro-Bold;
   margin-bottom: 12px;
@@ -617,7 +612,7 @@ a {
 .testimonials-section .testimonials-body .testimonials-wrap h4 {
   font-size: 16px;
   line-height: 20px;
-  letter-spacing: 0.01em;
+  letter-spacing: 0.14px;
   color: #2c3e50;
   font-family: SourceSansPro-Semibold;
   min-height: 40px;
@@ -680,7 +675,7 @@ a {
   font-family: SourceSansPro-Semibold;
   font-size: 24px;
   line-height: 176.5%;
-  letter-spacing: 0.01em;
+  letter-spacing: 0.14px;
 }
 .questions-section .questions-inner .questions-form {
   padding: 40px 0px;
@@ -695,8 +690,9 @@ a {
   border-radius: 37px;
   font-size: 14px;
   line-height: 18px;
-  letter-spacing: 0.01em;
+  letter-spacing: 0.14px;
   color: #000000;
+  padding: 10px 16px;
   font-family: SourceSansPro-Semibold;
 }
 .questions-section
@@ -719,7 +715,7 @@ a {
   border-radius: 74px;
   font-size: 14px;
   line-height: 18px;
-  letter-spacing: 0.01em;
+  letter-spacing: 0.14px;
   font-family: SourceSansPro-bold;
 }
 .questions-section .questions-inner .questions-form button:hover {
@@ -751,9 +747,10 @@ a {
 .footer-section .footer-logo-wrap p {
   font-size: 16px;
   line-height: 20px;
-  letter-spacing: 0.01em;
+  letter-spacing: 0.14px;
   color: #2c3e50;
   margin-bottom: 25px;
+  width: 80%;
 }
 .footer-section .footer-logo-wrap ul {
   list-style: none;
@@ -777,7 +774,7 @@ a {
 .footer-section .footer-dec-wrap ul li a {
   font-size: 14px;
   line-height: 18px;
-  letter-spacing: 0.01em;
+  letter-spacing: 0.14px;
   color: rgba(44, 62, 80, 0.9);
 }
 .footer-section .footer-dec-wrap ul li a:hover {
@@ -835,3 +832,328 @@ a {
   gap: 24px;
 }
 /* END-Footer */
+/* Responsive */
+@media only screen and (max-width: 1200px) {
+  .banner-section .banner-dec-wrap ul {
+    flex-wrap: wrap;
+  }
+  .about-section .about-dec,
+  .questions-section .questions-inner,
+  .footer-section .footer-inner {
+    width: 100%;
+  }
+  .advantages-section .advantages-inner .advantages-center-img {
+    width: 400px;
+  }
+  .advantages-section .advantages-inner .guidance-border {
+    margin-top: -70px;
+  }
+  .advantages-section .advantages-inner .compliance-border {
+    margin-top: -50px;
+  }
+  .testimonials-section .testimonials-body .testimonials-wrap p {
+    min-height: 100px;
+  }
+  .testimonials-section .testimonials-body .testimonials-wrap h4 {
+    min-height: 70px;
+  }
+  .testimonials-section .testimonials-body .testimonials-wrap h3 {
+    min-height: 60px;
+  }
+}
+@media only screen and (max-width: 991px) {
+  .header-wrap ul li {
+    width: 100%;
+  }
+  .free-account-btn {
+    display: inline-block;
+  }
+  .banner-section {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+  .banner-bg {
+    display: none;
+  }
+  .about-section .about-table {
+    margin-top: 50px;
+  }
+  .working-section .working-title p,
+  .faqs-section .faqs-head p {
+    width: 100%;
+  }
+  .working-section .working-title {
+    margin-bottom: 0px;
+  }
+  .advantages-section .advantages-inner .advantages-center-img {
+    width: 200px;
+  }
+  .advantages-section .advantages-inner .expert-border::after {
+    content: "";
+    right: -34px;
+    bottom: -70px;
+  }
+  .advantages-section .advantages-inner .risk-border::after {
+    content: "";
+    left: -20px;
+  }
+  .advantages-section .advantages-inner .guidance-border {
+    margin-top: -10px;
+  }
+  .advantages-section .advantages-inner .compliance-border {
+    margin-top: -20px;
+  }
+  .testimonials-body .testimonials-wrap .testimonials-img {
+    height: 80px;
+  }
+  .testimonials-section .testimonials-body .testimonials-wrap p {
+    min-height: 60px;
+  }
+  .testimonials-section .testimonials-body .testimonials-wrap {
+    min-height: auto;
+  }
+  .questions-section .questions-inner .questions-dec {
+    border-radius: 12px;
+  }
+  .footer-section .footer-logo-wrap {
+    margin-bottom: 40px;
+  }
+  .footer-section .footer-inner .secure-section h1::after {
+    content: "";
+    width: 32%;
+  }
+  .footer-section .footer-inner .secure-section h1::before {
+    content: "";
+    width: 32%;
+  }
+}
+@media only screen and (max-width: 767px) {
+  .banner-section {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .advantages-section .advantages-inner .expert-border::after,
+  .advantages-section .advantages-inner .risk-border::after,
+  .advantages-section .advantages-inner .guidance-border::after,
+  .advantages-section .advantages-inner .compliance-border::after {
+    background-image: none;
+  }
+  .advantages-section .advantages-inner .advantages-center-img,
+  .advantages-section .advantages-inner .guidance-border,
+  .advantages-section .advantages-inner .compliance-border {
+    margin-top: 30px;
+  }
+  .advantages-section .advantages-inner .advantages-wrap p {
+    margin-bottom: 0px;
+  }
+  .testimonials-section .testimonials-head h2 {
+    font-size: 25px;
+  }
+  .testimonials-body .testimonials-wrap .testimonials-img {
+    width: 70%;
+    height: 80px;
+    margin: auto;
+  }
+  .testimonials-section .testimonials-body .testimonials-wrap p {
+    min-height: 80px;
+  }
+  .testimonials-section .testimonials-body .testimonials-wrap p {
+    font-size: 12px;
+  }
+  .testimonials-section .testimonials-body .testimonials-wrap h3 {
+    min-height: 40px;
+    font-size: 20px;
+    line-height: 20px;
+  }
+  .testimonials-section .testimonials-body .testimonials-wrap h4 {
+    font-size: 14px;
+    line-height: 17px;
+    min-height: 40px;
+  }
+  .footer-section .footer-logo-wrap h3 {
+    margin-bottom: 20px;
+  }
+  .footer-section .footer-dec-wrap ul li {
+    margin-bottom: 8px;
+  }
+  .footer-section .footer-dec-wrap ul li ul li,
+  .footer-section .footer-dec-sec ul li {
+    margin-top: 10px;
+  }
+  .footer-section .footer-dec-wrap ul li ul .sec-dec {
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+  .footer-section h3 {
+    margin-bottom: 10px;
+  }
+  .footer-section .footer-inner .secure-section h1 {
+    font-size: 20px;
+  }
+}
+@media only screen and (max-width: 599px) {
+  .testimonials-section .testimonials-body .testimonials-wrap p {
+    font-size: 16px;
+  }
+}
+@media only screen and (max-width: 526px) {
+  .banner-section .banner-dec-wrap .for-low img {
+    width: 30px;
+  }
+  .banner-section .banner-dec-wrap .for-low span {
+    font-size: 20px;
+  }
+  .about-section .about-dec {
+    padding: 30px 15px;
+  }
+  .about-section .about-dec p {
+    font-size: 14px;
+    margin-bottom: 0px;
+  }
+  .about-section .about-table .about-table-inner {
+    width: 100%;
+    padding-left: 20px;
+  }
+  .about-section .about-dec h2,
+  .about-section .about-table h3,
+  .working-section .working-title h2,
+  .faqs-section .faqs-head h2,
+  .questions-section .questions-inner .questions-dec h2 {
+    font-size: 30px;
+    margin-bottom: 10px;
+  }
+  .working-section .working-wrap p {
+    width: 100%;
+    margin-top: 15px;
+  }
+  .faqs-section .faqs-head p {
+    font-size: 18px;
+  }
+  .working-section .working-wrap .working-wrap-img {
+    min-height: auto;
+  }
+  .advantages-section::before {
+    top: -45px;
+  }
+  .advantages-section::after {
+    bottom: -65px;
+  }
+  .advantages-section {
+    padding: 60px 0px;
+  }
+  .advantages-section .advantages-inner {
+    margin-top: 30px;
+  }
+  .faqs-section .faqs-head {
+    margin-bottom: 40px;
+  }
+  .faqs-body .accordion .accordion-item h2 .sec-accordion-btn {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  .testimonials-section .testimonials-head p {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  .testimonials-section .testimonials-body {
+    margin-top: 40px;
+  }
+  .owl-nav button {
+    width: 40px;
+    height: 40px;
+  }
+  .owl-nav button span {
+    font-size: 40px;
+    margin-top: -14px;
+  }
+  .owl-nav {
+    margin-top: 20px;
+  }
+  .questions-section .questions-inner .questions-dec .questions-ring {
+    width: 30px;
+    height: 30px;
+  }
+  .questions-section .questions-inner .questions-dec p {
+    font-size: 20px;
+    margin-bottom: 0px;
+  }
+  .questions-section .questions-inner .questions-dec {
+    padding: 20px 30px;
+  }
+  .questions-section .questions-inner .questions-form {
+    width: 80%;
+  }
+  .footer-section {
+    background: #ffffff;
+    padding-top: 30px;
+    padding-bottom: 15px;
+  }
+  .footer-section .footer-inner .secure-section h1 {
+    font-size: 18px;
+  }
+  .footer-section .footer-inner .secure-section h1::before,
+  .footer-section .footer-inner .secure-section h1::after {
+    width: 30%;
+    top: 17px;
+  }
+}
+@media only screen and (max-width: 426px) {
+  .banner-section .banner-dec-wrap h2 {
+    font-size: 35px;
+  }
+  .banner-section .banner-dec-wrap a {
+    margin-bottom: 40px;
+  }
+  .questions-section .questions-inner .questions-form {
+    width: 90%;
+    padding: 30px 0px;
+  }
+  .questions-section .questions-inner .questions-form .form-group input {
+    margin-bottom: 25px;
+  }
+  .testimonials-section .testimonials-head h2 {
+    font-size: 22px;
+  }
+}
+@media only screen and (max-width: 380px) {
+  .faqs-body .accordion .accordion-item h2 .accordion-button {
+    font-size: 14px;
+  }
+  .faqs-body .accordion .accordion-item .accordion-collapse .accordion-body {
+    font-size: 12px;
+  }
+  .about-section .about-dec h2,
+  .about-section .about-table h3,
+  .working-section .working-title h2,
+  .faqs-section .faqs-head h2,
+  .questions-section .questions-inner .questions-dec h2 {
+    font-size: 25px;
+    margin-bottom: 10px;
+  }
+  .banner-section .banner-dec-wrap p {
+    font-size: 14px;
+    line-height: 25px;
+    margin-bottom: 20px;
+  }
+  .working-section .working-title p {
+    font-size: 14px;
+  }
+  .testimonials-section .testimonials-head p {
+    font-size: 20px;
+    margin-bottom: 0px;
+  }
+  .testimonials-section .testimonials-head h2 {
+    font-size: 18px;
+  }
+  .owl-dots {
+    display: none;
+  }
+  .questions-section .questions-inner .questions-dec p {
+    font-size: 16px;
+  }
+  .footer-section .footer-inner .secure-section h1::before,
+  .footer-section .footer-inner .secure-section h1::after {
+    width: 25%;
+    top: 17px;
+  }
+}
