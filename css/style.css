@@ -46,6 +46,12 @@ a {
 .navbar-toggler img {
   width: 25px;
 }
+.web-view {
+  display: block;
+}
+.mobile-view {
+  display: none;
+}
 /* END-Header */
 /* Banner-section */
 .banner-section {
@@ -865,8 +871,17 @@ a {
   .header-wrap ul li {
     width: 100%;
   }
+  .web-view {
+    display: none;
+  }
+  .mobile-view {
+    display: block;
+  }
+
   .free-account-btn {
     display: inline-block;
+    border-radius: 14px;
+    padding: 10px 25px !important;
   }
   .banner-section {
     padding-top: 80px;
